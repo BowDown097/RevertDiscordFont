@@ -1,0 +1,403 @@
+.title-1v5ZfI::placeholder,
+.title-1v5ZfI:-ms-input-placeholder,
+.title-1v5ZfI::-moz-placeholder,
+.title-1v5ZfI::-webkit-input-placeholder {
+    font-weight: 500;
+}
+
+.uploadInput-3fblkw {
+    font-weight: 500;
+}
+
+.nameTag-2ysfG3 {
+    font-weight: 500;
+}
+
+.commonPropertiesName-1IP7cI {
+    font-weight: 500;
+}
+
+.presentedBy-1l3Ibc {
+    font-weight: 700;
+}
+
+.tierTitle-kGI87L {
+    font-weight: 500;
+}
+
+.titleInput-2T66q3,
+.titleInput-2T66q3::placeholder,
+.titleInput-2T66q3:-ms-input-placeholder,
+.titleInput-2T66q3::-moz-placeholder,
+.titleInput-2T66q3::-webkit-input-placeholder {
+    font-weight: 500;
+}
+
+.value-2DmbWU {
+    font-weight: 400;
+}
+
+.header-1Hn2NV {
+    font-weight: 500;
+}
+
+.container-5N5x2A .title-2_oicu {
+    font-weight: 500;
+}
+
+.headerText-BFF98I {
+    color: var(--white-500);
+    font-weight: 600;
+}
+
+.header-Imy05m {
+    font-weight: 700;
+}
+
+.header-3OsQeK {
+    font-weight: 400;
+}
+
+.bar-2eAyLE {
+    font-weight: 500;
+}
+
+.resultsGroup-cfY57t .header-1BR0Ro {
+    font-weight: 700;
+}
+
+.channelName-3aS_Eg div,
+.channelName-3aS_Eg input {
+    font-weight: 500;
+}
+
+.liveSmall-1Urjcy {
+    font-size: 12px;
+    line-height: 16px;
+}
+
+.live-1V2D-f {
+    font-weight: 500;
+}
+
+.userTag-2qPxEZ {
+    font-weight: 500;
+}
+
+.tierPrice-2GyBEK {
+    font-weight: 500;
+}
+
+.item-3XjbnG {
+    font-weight: 400;
+}
+
+.header-2Kx1US {
+    font-size: 12px;
+    font-weight: 700;
+    font-family: var(--font-display);
+    line-height: 16px;
+    text-transform: uppercase;
+}
+
+.header-2Kx1US,
+.item-3XjbnG {
+    font-weight: 500;
+}
+
+.planOptionDiscount-2nex9n {
+    color: var(--white-500);
+    text-transform: uppercase;
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 500;
+}
+
+.base-ZDDK0g {
+    font-weight: 500;
+}
+
+.container-q97qHp {
+    font-weight: 500;
+}
+
+.textBadge-1fdDPJ {
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.base-3IDx3L {
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 600;
+}
+
+.userTag-PXLYzP {
+    font-weight: 400;
+}
+
+.sectionLabel-326T07 {
+    font-weight: 500;
+}
+
+.label-3xe1Ii {
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: Whitney;
+    font-style: normal;
+    font-weight: 300;
+    src: url(/assets/aa547e7d321c25791de2252ee2294220.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: Whitney;
+    font-style: italic;
+    font-weight: 300;
+    src: url(/assets/6dab543d77316e020f4a6a951e69e4c3.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: Whitney;
+    font-style: normal;
+    font-weight: 400;
+    src: url(/assets/ffc447aadf554fbb0b4a34cacee083a5.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: Whitney;
+    font-style: italic;
+    font-weight: 400;
+    src: url(/assets/0ad909f272b0ece31d9ba2222d4c9e63.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: Whitney;
+    font-style: normal;
+    font-weight: 500;
+    src: url(/assets/b63701648c7e5a9d6ad67a0866cf9ecd.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: Whitney;
+    font-style: italic;
+    font-weight: 500;
+    src: url(/assets/161543c19f87e7bc8126044be2b5f50f.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: Whitney;
+    font-style: normal;
+    font-weight: 600;
+    src: url(/assets/10bf925aa3b5eea72cffce5ab37d6c49.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: Whitney;
+    font-style: italic;
+    font-weight: 600;
+    src: url(/assets/6a4f76f9849935bd57822e9428481f1c.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: Whitney;
+    font-style: normal;
+    font-weight: 700;
+    src: url(/assets/3d0099ecfaf7718dad3fb6cb3c0ee650.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: Whitney;
+    font-style: italic;
+    font-weight: 700;
+    src: url(/assets/4904116ba8b56f50018a30c364d52b87.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: ABC Ginto Normal;
+    font-style: normal;
+    font-weight: 400;
+    src: url(/assets/127465eff7b4a91feb3f8ac7f3cb2bde.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: ABC Ginto Normal;
+    font-style: italic;
+    font-weight: 400;
+    src: url(/assets/36675ada27ae82c88b9a6b796f127c59.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: ABC Ginto Normal;
+    font-style: normal;
+    font-weight: 500;
+    src: url(/assets/5b558dbb0bb5347a9883248ec2f48be3.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: ABC Ginto Normal;
+    font-style: italic;
+    font-weight: 500;
+    src: url(/assets/b3625a8ecf272987eff367aaee1d74dc.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: ABC Ginto Normal;
+    font-style: normal;
+    font-weight: 700;
+    src: url(/assets/22c37159391fd87080c4915b5b1f5a3d.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: ABC Ginto Normal;
+    font-style: italic;
+    font-weight: 700;
+    src: url(/assets/795347423b789cbdbcd959303849669a.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: ABC Ginto Nord;
+    font-style: normal;
+    font-weight: 400;
+    src: url(/assets/0a70f36a397ebce8f08c3b592bbeca27.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: ABC Ginto Nord;
+    font-style: italic;
+    font-weight: 400;
+    src: url(/assets/e2da4f6a2aa553db0de681f85243c79a.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: ABC Ginto Nord;
+    font-style: normal;
+    font-weight: 500;
+    src: url(/assets/c0de3bf7c2df2520b8ca4c22f7b7d394.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: ABC Ginto Nord;
+    font-style: italic;
+    font-weight: 500;
+    src: url(/assets/1e4798383d18b16f724da9206615935e.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: ABC Ginto Nord;
+    font-style: normal;
+    font-weight: 700;
+    src: url(/assets/fc258b5e7da5f28a2abe3918e5fca35c.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: ABC Ginto Nord;
+    font-style: italic;
+    font-weight: 700;
+    src: url(/assets/5472af49b6bbb5b420c48554c97d9d2d.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: ABC Ginto Nord;
+    font-style: normal;
+    font-weight: 800;
+    src: url(/assets/3d07f5abf272fbb5670d02ed687453d0.woff2) format("woff2")
+}
+
+@font-face {
+    font-family: ABC Ginto Nord;
+    font-style: italic;
+    font-weight: 800;
+    src: url(/assets/3c0aa7f9d47d6a96b14ecada461ccf0e.woff2) format("woff2")
+}
+
+:root {
+    --font-primary: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-display: "ABC Ginto Normal", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-headline: "ABC Ginto Nord", "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+
+:lang(ko),
+:root {
+    --font-code: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace
+}
+
+:lang(ko) {
+    --font-primary: Whitney, "Apple SD Gothic Neo", NanumBarunGothic, "\B9D1\C740   \ACE0\B515", "Malgun Gothic", Gulim, 굴림, Dotum, 돋움, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-display: "ABC Ginto Normal", "Apple SD Gothic Neo", NanumBarunGothic, "\B9D1\C740   \ACE0\B515", "Malgun Gothic", Gulim, 굴림, Dotum, 돋움, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-headline: "ABC Ginto Nord", "Apple SD Gothic Neo", NanumBarunGothic, "\B9D1\C740   \ACE0\B515", "Malgun Gothic", Gulim, 굴림, Dotum, 돋움, "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+
+:lang(ja) {
+    --font-primary: Whitney, "Hiragino Sans", "\30D2\30E9\30AE\30CE\89D2\30B4   ProN W3", "Hiragino Kaku Gothic ProN", メイリオ, Meiryo, Osaka, "MS PGothic", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-display: "ABC Ginto Normal", "Hiragino Sans", "\30D2\30E9\30AE\30CE\89D2\30B4   ProN W3", "Hiragino Kaku Gothic ProN", メイリオ, Meiryo, Osaka, "MS PGothic", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-headline: "ABC Ginto Nord", "Hiragino Sans", "\30D2\30E9\30AE\30CE\89D2\30B4   ProN W3", "Hiragino Kaku Gothic ProN", メイリオ, Meiryo, Osaka, "MS PGothic", "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+
+:lang(ja),
+:lang(zh-CN) {
+    --font-code: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace
+}
+
+:lang(zh-CN) {
+    --font-primary: Whitney, "Microsoft YaHei New", 微软雅黑, "Microsoft Yahei", "Microsoft JhengHei", 宋体, SimSun, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-display: "ABC Ginto Normal", "Microsoft YaHei New", 微软雅黑, "Microsoft Yahei", "Microsoft JhengHei", 宋体, SimSun, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-headline: "ABC Ginto Nord", "Microsoft YaHei New", 微软雅黑, "Microsoft Yahei", "Microsoft JhengHei", 宋体, SimSun, "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+
+:lang(zh-TW) {
+    --font-primary: Whitney, "Microsoft JhengHei", 微軟正黑體, "Microsoft JhengHei UI", "Microsoft YaHei", 微軟雅黑, 宋体, SimSun, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-display: "ABC Ginto Normal", "Microsoft JhengHei", 微軟正黑體, "Microsoft JhengHei UI", "Microsoft YaHei", 微軟雅黑, 宋体, SimSun, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-headline: "ABC Ginto Nord", "Microsoft JhengHei", 微軟正黑體, "Microsoft JhengHei UI", "Microsoft YaHei", 微軟雅黑, 宋体, SimSun, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --font-code: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace
+}
+
+.groupLabel-16o1xl {
+    font-weight: 700;
+}
+
+.h5-2RwDNl,
+.label-2bTGzo,
+.legend-1TXTJO {
+    font-size: 12px;
+    line-height: 16px;
+}
+
+.h4-1_f8j1 {
+    line-height: 20px;
+    letter-spacing: .3px
+}
+
+.h4-1_f8j1,
+.h5-2RwDNl,
+.label-2bTGzo,
+.legend-1TXTJO {
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.h3-2Gh4ka {
+    font-weight: 400;
+}
+
+.h1-34Txb0,
+.h2-1EaYVL {
+    font-weight: 500;
+}
+
+.heading-xxl-medium-1hl0GL,
+.heading-xxl-normal-3zbV4t {
+    font-size: 34px;
+}
+
+.heading-xl-medium-_XBxHT,
+.heading-xl-normal-1z58RU {
+    font-size: 25px;
+}
+
+.heading-md-medium-2DVCeJ,
+.heading-md-normal-3Ytn6I {
+    font-size: 17px;
+    line-height: 22px;
+}
